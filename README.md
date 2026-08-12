@@ -4,7 +4,7 @@ a office network vlan made in CISCO packet tracer
 
 
 
-\## VLAN \& Interface Addressing
+## VLAN & Interface Addressing
 
 
 
@@ -20,7 +20,7 @@ a office network vlan made in CISCO packet tracer
 
 
 
-\## DHCP Pool Ranges
+## DHCP Pool Ranges
 
 
 
@@ -36,7 +36,7 @@ a office network vlan made in CISCO packet tracer
 
 
 
-\## Physical / Trunk Links
+## Physical / Trunk Links
 
 
 
@@ -52,7 +52,7 @@ a office network vlan made in CISCO packet tracer
 
 
 
-\## ACLs — Guest Isolation
+## ACLs — Guest Isolation
 
 
 
