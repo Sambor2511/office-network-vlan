@@ -2,6 +2,8 @@
 
 a office network vlan made in CISCO packet tracer
 
+<img width="1079" height="620" alt="image" src="https://github.com/user-attachments/assets/b036f745-4a50-48d4-b8fe-88b2fda521f0" />
+
 ## VLAN & Interface Addressing
 
 | VLAN ID | Name | Subnet | Gateway IP | Router Interface |
